@@ -1,1 +1,0 @@
-Quantum Proof of Work
